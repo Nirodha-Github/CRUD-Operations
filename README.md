@@ -8,5 +8,7 @@
   <li>👉 <b>D</b>elete - Delete a record</li>
 </ul>  
 <br>
-<img src="https://github.com/Nirodha-Github/E-Learning_site/blob/main/image/E-learning_site.png" alt="Crud">
+<img src="https://github.com/Nirodha-Github/CRUD-Operations/blob/main/CRUD-Operaions-Site.png" alt="Crud" style="position:0 0 100% 100%;">
+
+
 
