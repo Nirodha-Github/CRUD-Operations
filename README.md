@@ -7,6 +7,6 @@
   <li>👉 <b>U</b>pdate - Change some values of a record</li>
   <li>👉 <b>D</b>elete - Delete a record</li>
 </ul>  
-<br><br><br><br><br>
-<center>https://github.com/Nirodha-Github/CRUD-Operations/blob/main/CRUD-Operaions-Site.png<center>
+<br>
+<center>(https://github.com/Nirodha-Github/CRUD-Operations/blob/main/CRUD-Operaions-Site.png)<center>
 
