@@ -8,5 +8,5 @@
   <li>👉 <b>D</b>elete - Delete a record</li>
 </ul>  
 <br>
-<center>(https://github.com/Nirodha-Github/CRUD-Operations/blob/main/CRUD-Operaions-Site.png)<center>
+![Home Page](https://github.com/Nirodha-Github/CRUD-Operations/blob/main/CRUD-Operaions-Site.png)
 
